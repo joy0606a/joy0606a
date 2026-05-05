@@ -11,8 +11,8 @@
   (Lambda, CloudFront, EC2, RDS) · wagmi / viem / ethers.js · WalletConnect ·
   TanStack Query · Turborepo
 
- 🔭 Building a personal product app right now, end-to-end (planning,
+ - 🔭 Building a personal product app right now, end-to-end (planning,
     design, engineering). First time wearing every hat solo and learning a lot.
- 🌱 Picking up product skills the engineering side normally doesn't
+ - 🌱 Picking up product skills the engineering side normally doesn't
     touch (UX research, user testing, shipping cadence)
- 📫 joy0606a@gmail.com or [LinkedIn](https://linkedin.com/in/saebom-an)
+ - 📫 joy0606a@gmail.com or [LinkedIn](https://linkedin.com/in/saebom-an)
