@@ -1,10 +1,11 @@
 ### Saebom An — Senior Software Engineer
 
-  7+ years building production frontends, with 5+ years specialized in Web3 — cross-chain integrations, DeFi swap/staking, multi-chain
-  SDKs, marketplace platforms.
+Software engineer, frontend-heavy, with 7 years shipping complex web products in production — mostly in fast-moving startups across fintech and web3. I care about web security, performance, reliable shipping, and getting design and UI/UX right down to the detail. I came to engineering from a fine arts background, which is part of why I care about how things look and feel.
 
-  **Stack**: TypeScript · React · Next.js · Node.js · wagmi / viem / ethers.js · TanStack Query · Turborepo
+AI-agentic tools (Claude Code, Cursor) are a core part of how I build, and I've led a frontend team — owning architecture, deployment strategy, and weekly releases.
 
-  - 🔭 Building a personal product app end-to-end (planning, design, engineering). First time wearing every hat solo.
-  - 🌱 Picking up product skills outside engineering silos (UX research, user testing, shipping cadence)
-  - 📫 joy0606a@gmail.com · [LinkedIn](https://linkedin.com/in/saebom-an)
+**Currently:** focused on AI-agentic development and product UI/UX — building things that are well-engineered *and* genuinely nice to use.
+
+**Tech:** TypeScript · React / Next.js · Turborepo · design systems · TanStack Query / Zustand · Node · AWS · Claude Code / Cursor
+
+📫 joy0606a@gmail.com · [LinkedIn](https://linkedin.com/in/saebom-an)
